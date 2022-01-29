@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(scam.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+input{
+    outline-style: groove;
+    outline-color: red;
+    height: 25px;
+    width: 200px;
+    padding: 0 15px;
+    border-radius: 15px;
+    border: 0px;
+}
+button{
+    outline-style: groove;
+    height: 25px;
+    width: 200px;
+    padding: 0 15px;
+    border: 0px;
+    border-radius: 15px;
+}
